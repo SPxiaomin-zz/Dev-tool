@@ -1,3 +1,5 @@
 ### 使用配置
 
-- Edit > Preferences > Setting > enable the `Show Indent Guide` checkbox
+- 代码缩进线 
+
+  Edit > Preferences > Setting > enable the `Show Indent Guide` checkbox
