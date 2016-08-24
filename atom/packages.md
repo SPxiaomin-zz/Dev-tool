@@ -2,9 +2,15 @@
 
 - vim-mode
 
-- emmet
+- HTML
+
+    - emmet
+
+- CSS
+
+    - color-picker
 
 - Git
 
-  - git-plus
-  - git-log
+    - git-plus
+    - git-log
