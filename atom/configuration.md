@@ -2,8 +2,12 @@
 
 - 代码缩进线
 
-  Edit > Preferences > Setting > enable the `Show Indent Guide` checkbox
+    Edit > Preferences > Setting > enable the `Show Indent Guide` checkbox
+
+- Tab Length
+
+    Edit > Preferences > Setting > Tab Length 4
 
 - 改变 Tree View 的位置
 
-  打开命令行 > Tree View: Toggle Side
+    打开命令行 > Tree View: Toggle Side
