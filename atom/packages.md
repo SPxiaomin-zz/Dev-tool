@@ -30,7 +30,7 @@
     - file-icons
     - atom-beatutify
     - minimap
-
         - Text Opacity 1
         - Scroll Animation
         - Independent Minimap Scroll On Mouse Wheel Events
+    - minimap-titles

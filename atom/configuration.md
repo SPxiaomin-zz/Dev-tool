@@ -8,6 +8,10 @@
 
     Edit > Preferences > Setting > Tab Length 4
 
+- Font Size
+
+    Edit > Preferences > Setting > Font Size 13
+
 - 改变 Tree View 的位置
 
     打开命令行 > Tree View: Toggle Side
