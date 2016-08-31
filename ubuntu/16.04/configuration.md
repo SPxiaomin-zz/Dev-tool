@@ -30,3 +30,16 @@
 
 		- ssh-keygen -t rsa -C "3013366498@qq.com"
 
+#### 第三方软件安装
+
+- Atom 安装
+
+	- sudo add-apt-repository ppa:webupd8team/atom
+
+	- sudo apt-get update
+
+	- sudo apt-get install atom
+
+- Chrome 安装
+
+- 搜狗输入法安装
