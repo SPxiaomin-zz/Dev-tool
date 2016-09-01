@@ -98,3 +98,6 @@
 
 	- sudo apt-get install wps-office
 
+- tree 安装
+
+    - sudo apt install tree
