@@ -18,6 +18,7 @@
 
         - git config --global user.email "3013366498@qq.com"
         - git config --global user.name "gujunmin"
+        - git config --global push.default matching
         - git config --global alias.st status
         - git config --global alias.co checkout
         - git config --global alias.ci commit
