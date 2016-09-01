@@ -1,0 +1,18 @@
+#!/bin/bash
+# 作用:
+#       使用 cd ../ 用来一个一个的目录回退目录十分的麻烦，现在只需使用 c number 就可以实现回退几个目录的作用，只输入 c 的话就会回退到根目录，原来的 cd /directory 命令简化成为了 c /directory
+# 使用:
+#       1. c ==> 回到根目录
+#       2. c 2 ==> 回退两个目录，数字 1-9
+#       3. c /test ==> 去到 /test 目录
+
+if [ -z "$1" ]; then
+    cd ~
+elif [ -n "$(echo $1 | grep '^[1-9]$')" ]; then
+    for i in $(seq 1 $1)
+    do
+        cd ../
+    done
+else
+    cd $1
+fi

@@ -1,0 +1,21 @@
+#!/bin/bash
+# 作用:
+#       在 jekyll 中写博客文章的时候，博客文章文件名的标题格式是固定的 YYYY-MM-DD-title.md ，使用 date +%F 来生成 YYYY-MM-DD，然后再用 命令参数$1 或 read命令读入 title，最后使用字符拼接并使用 vim 打开。
+# 使用:
+#       1. wb test ==> YYYY-MM-DD-test.md
+#       2. wb
+#          test ==> YYYY-MM-DD-test.md
+
+if [ -n "$1" ]; then
+    filename=$(date +%F)'-'$1'.md'
+    vim ${filename}
+else
+    unset title
+    while [ -z ${title} ]
+    do
+        read -p "Please input the title: " title
+    done
+
+    filename=$(date +%F)'-'${title}'.md'
+    vim ${filename}
+fi
