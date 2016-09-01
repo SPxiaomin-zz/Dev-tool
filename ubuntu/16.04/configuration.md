@@ -33,9 +33,19 @@
         - sudo apt install zsh
         - chsh -s $(which zsh)
 
+            - 注意: 电脑重启才可以生效
+
     - oh-my-zsh
 
         - sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+    - 自定义 shell script 设置
+
+        - 修改 ~/.zshrc
+
+            - PATH
+            - 执行权限 chmod a+x filename
+            - 设置 alias 使得 script 在当前的 shell 环境中执行
 
 - vim 安装
 
