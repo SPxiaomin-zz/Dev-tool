@@ -56,6 +56,10 @@
 
     - 设置 ~/.vimrc
 
+    - 安装和设置 Vundle
+
+        - <https://github.com/VundleVim/Vundle.vim>
+
 - 软件安装工具下载
 
     - sudo apt install gdebi
