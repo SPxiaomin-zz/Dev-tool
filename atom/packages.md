@@ -1,6 +1,6 @@
 ### Packages
 
-- VIM 
+- VIM
 
     - vim-mode
     - ex-mode
@@ -34,3 +34,4 @@
         - Scroll Animation
         - Independent Minimap Scroll On Mouse Wheel Events
     - minimap-titles
+    - autocomplete-paths
