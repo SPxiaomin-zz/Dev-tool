@@ -35,3 +35,4 @@
         - Independent Minimap Scroll On Mouse Wheel Events
     - minimap-titles
     - autocomplete-paths
+    - highlight-line
