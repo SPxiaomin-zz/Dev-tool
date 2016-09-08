@@ -4,7 +4,7 @@
 
     - profiles -> profile preferences -> Colors -> Built-in schemes: Solarized light、Solarized、Use transparency from system theme
     
-- gengxin
+- 更新（可能需要多输入几次）
 
     - sudo apt update
     - sudo apt upgrade
