@@ -65,10 +65,6 @@
 
         - <https://github.com/VundleVim/Vundle.vim>
 
-- 软件安装工具下载
-
-    - sudo apt install gdebi
-
 - Chrome 安装
 
 - 搜狗输入法安装
@@ -77,7 +73,7 @@
 
     - 安装 pip
 
-        - sudo apt install pip
+        - sudo apt install python-pip
 
     - 使用 pip 安装 shadowsocks
 
