@@ -3,6 +3,11 @@
 - Terminal 主题设置
 
     - profiles -> profile preferences -> Colors -> Built-in schemes: Solarized light、Solarized、Use transparency from system theme
+    
+- gengxin
+
+    - sudo apt update
+    - sudo apt upgrade
 
 - GIT
 
