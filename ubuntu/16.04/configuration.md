@@ -9,6 +9,11 @@
     - sudo apt update
     - sudo apt upgrade
 
+- 设置 topbar 显示
+
+    - 设置 时间显示
+    - 设置 电量显示
+
 - GIT
 
     - 安装 git
@@ -69,11 +74,22 @@
 
 - 搜狗输入法安装
 
+    - 设置
+    
+        - 重新勾选 切换英文状态时，保留输入窗口中已存在的字符并上屏
+        - 关闭 切换搜狗拼音输入法快捷键
+
+    - 设置皮肤
+
 - 翻墙
 
     - 安装 pip
 
         - sudo apt install python-pip
+        - 需要先升级，才能安装 shadowsocks
+
+            - pip install --upgrade pip
+
 
     - 使用 pip 安装 shadowsocks
 
@@ -86,12 +102,6 @@
     - 安装 google chrome 翻墙插件并设置 protocol: sock5，server: 127.0.0.1，port: 1080 
 
 - Atom 安装
-
-    - sudo add-apt-repository ppa:webupd8team/atom
-
-    - sudo apt-get update
-
-    - sudo apt-get install atom
 
 - VirtualBox
 
@@ -113,7 +123,11 @@
 
     - 安装 qq
 
+    - 安装搜狗输入法
+
     - 安装百度云管家
+
+    - 安装解压缩工具64位
 
     - 安装 ps
 
