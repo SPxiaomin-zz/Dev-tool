@@ -11,3 +11,5 @@
 - 修改 markdown-preview packages 的样式
 
     打开此 packages 的 setting 页面，然后 Use GitHub.com style
+
+- 在 Settings > Editor 中 enable the `Soft Wrap` checkbox
