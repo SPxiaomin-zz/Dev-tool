@@ -81,6 +81,11 @@
 
     - 设置皮肤
 
+- 五笔输入法安装
+
+    - sudo apt-get install fcitx-table-wubi
+    - 然后重启电脑
+
 - 翻墙
 
     - 安装 pip
