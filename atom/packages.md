@@ -27,6 +27,7 @@
 
 - Others
 
+    - block-comment
     - file-icons
     - atom-beatutify
     - minimap
