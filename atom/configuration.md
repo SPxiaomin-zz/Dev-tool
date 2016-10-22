@@ -15,3 +15,5 @@
 - 在 Settings > Editor 中 enable the `Soft Wrap` checkbox
 
 - 在 Setting > Editor > Scroll Past End
+
+- Setting > Editor > Show Invisibles

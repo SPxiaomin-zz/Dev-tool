@@ -1,5 +1,10 @@
 ### Packages
 
+- Theme
+
+    - seti-ui
+    - monokai-seti
+
 - VIM
 
     - vim-mode
@@ -24,6 +29,12 @@
     - git-plus
     - git-log
     - merge-conflicts
+
+- Project switch
+
+    - project-manager
+    - gitProject
+        - setting, Root paths, /home/gujunmin/gitProject
 
 - Others
 
