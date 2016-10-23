@@ -1,5 +1,7 @@
 ### 插件
 
+- Web Developer
+
 - Infinity: 让Chrome标签页好看又方便
 - Unsplash Instant: 高逼格高清图库
 
