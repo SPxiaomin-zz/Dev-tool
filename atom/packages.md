@@ -17,6 +17,17 @@
 - CSS
 
     - color-picker
+    - pigments
+
+            // keymap.cson
+            'atom-workspace':
+                'alt-shift-h': 'pigments:convert-to-hex'
+                'alt-shift-g': 'pigments:convert-to-rgb'
+                'alt-shift-j': 'pigments:convert-to-rgba'
+                'alt-shift-k': 'pigments:convert-to-hsl'
+                'alt-shift-l': 'pigments:convert-to-hsla'
+
+
     - autoprefixer
 
 - JS
