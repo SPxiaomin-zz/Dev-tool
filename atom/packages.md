@@ -50,7 +50,7 @@
 - Others
 
     - go-definition
-    - block-comment
+    - sublime-block-comment
     - file-icons
     - atom-beatutify
     - minimap
