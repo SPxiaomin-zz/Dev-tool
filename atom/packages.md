@@ -49,6 +49,7 @@
 
 - Others
 
+    - go-definition
     - block-comment
     - file-icons
     - atom-beatutify
