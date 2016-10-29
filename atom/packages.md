@@ -1,5 +1,11 @@
 ### Packages
 
+<!-- TODO: browser-plus, git-time-machine -->
+
+- Terminal
+
+    - platformio-ide-terminal
+
 - Theme
 
     - seti-ui
@@ -52,11 +58,15 @@
     - go-definition
     - sublime-block-comment
     - file-icons
+    - todo-show
+
+        - status bar indicator
+
+    - autocomplete-paths
+    - highlight-line
     - atom-beatutify
     - minimap
         - Text Opacity 1
         - Scroll Animation
         - Independent Minimap Scroll On Mouse Wheel Events
     - minimap-titles
-    - autocomplete-paths
-    - highlight-line
