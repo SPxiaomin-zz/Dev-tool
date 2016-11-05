@@ -75,3 +75,4 @@
     - highlight-selected
     - minimap-highlight-selected
     - minimap-cursorline
+    - atom-html-preview
