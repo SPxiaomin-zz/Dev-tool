@@ -71,3 +71,4 @@
         - Independent Minimap Scroll On Mouse Wheel Events
     - minimap-titles
     - minimap-git-diff
+    - minimap-find-and-replace
