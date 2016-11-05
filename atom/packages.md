@@ -70,3 +70,4 @@
         - Scroll Animation
         - Independent Minimap Scroll On Mouse Wheel Events
     - minimap-titles
+    - minimap-git-diff
