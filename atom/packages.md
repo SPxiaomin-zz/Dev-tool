@@ -72,3 +72,6 @@
     - minimap-titles
     - minimap-git-diff
     - minimap-find-and-replace
+    - highlight-selected
+    - minimap-highlight-selected
+    - minimap-cursorline
