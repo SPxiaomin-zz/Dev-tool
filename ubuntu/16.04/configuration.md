@@ -3,7 +3,7 @@
 - Terminal 主题设置
 
     - profiles -> profile preferences -> Colors -> Built-in schemes: Solarized light、Solarized、Use transparency from system theme
-    
+
 - 更新（可能需要多输入几次）
 
     - sudo apt update
@@ -17,7 +17,7 @@
 - GIT
 
     - 安装 git
-    
+
         - sudo apt install git
 
     - 生成 ssh key，并添加到 github 上去
@@ -75,7 +75,7 @@
 - 搜狗输入法安装
 
     - 设置
-    
+
         - 重新勾选 切换英文状态时，保留输入窗口中已存在的字符并上屏
         - 关闭 切换搜狗拼音输入法快捷键
 
@@ -104,7 +104,7 @@
 
         - sslocal -s 'server' -p port -k 'password' -m 'rc4-md5'
 
-    - 安装 google chrome 翻墙插件并设置 protocol: sock5，server: 127.0.0.1，port: 1080 
+    - 安装 google chrome 翻墙插件并设置 protocol: sock5，server: 127.0.0.1，port: 1080
 
 - Atom 安装
 
@@ -126,7 +126,9 @@
 
         - Devices -> Shared Clipboard > Bidirectional
 
-    - 安装 qq
+    - 安装 chrome
+
+    - 安装 qq/微信
 
     - 安装搜狗输入法
 
@@ -214,7 +216,7 @@
         - git clone https://github.com/creationix/nvm.git
 
         - 在 ~/.zshrc 文件中添加
-        
+
             - export NVM_NODEJS_ORG_MIRROR=https://npm.taobao.org/dist
 
             - source ~/gitProject/nvm/nvm.sh
